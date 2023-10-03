@@ -4,7 +4,7 @@
     <jcr:content
         cq:template="/libs/wcm/msm/templates/blueprint"
         jcr:primaryType="nt:unstructured"
-        jcr:title="WKND Site Blueprint"
+        jcr:title="WKND sum Blueprint"
         jcr:description="Creates blueprint config for WKND Site"
         sling:resourceType="wcm/msm/components/blueprint"
         sitePath="/content/wknd/language-masters">
