@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
 
-    <!-- Content Filters -->
-    <filter root="/content/wknd" />
+    <!-- Content Filters -->   
    
     <filter root="/content/wknd" mode="merge"/>
    
